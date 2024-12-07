@@ -1,1 +1,1 @@
-# atividade4
+ O projeto desenvolvido se trata do famoso jogo da forca, como funciona: o sistema escolhe aleatoriamente uma das palavras pré-selecionadas e pede para que o jogador escolha uma letra, a cada jogo o jogador possui um determinado número de tentavias, após esse número chegar a zero e a palavra ainda não tiver sido descoberta o jogador será eliminado, e a cada letra dita o sistema mostra se existe ou não esta letra dentro da palavra selecionada, se a palavra for descoberta o jogo se encerra.
